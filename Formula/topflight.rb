@@ -1,8 +1,8 @@
 class Topflight < Formula
   desc "Build and run a TopFlight trading bot"
   homepage "https://github.com/RichieRob/topflight-bot"
-  url "https://raw.githubusercontent.com/RichieRob/topflight-bot/v0.3.1/topflight-bot-0.3.1.tgz"
-  sha256 "76d2fd564379bb2a7195271e23d670cfb041316b65ed7887e137614853871ec9"
+  url "https://raw.githubusercontent.com/RichieRob/topflight-bot/v0.3.3/topflight-bot-0.3.3.tgz"
+  sha256 "6ddbaca75bdb951e655ac94d5e5a7fa8deaf267f01065ec600e05320822885de"
   license "MIT"
 
   depends_on "node"
